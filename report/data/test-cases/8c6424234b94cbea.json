@@ -1,0 +1,228 @@
+{
+  "uid" : "8c6424234b94cbea",
+  "name" : "test_new_goods_seckill_Package_mail[添加福利秒杀商品，并包邮-yml-123456-1-福利秒杀测试商品002-D:\\abc.exe-福利秒杀-100-1000-是-1-999-9-1-all_png1-D:\\\\abcd.exe %s]",
+  "fullName" : "cases.test_seckill_free_active_case.TestSeckillFreeActiveCase#test_new_goods_seckill_Package_mail",
+  "historyId" : "6359f814fb27e2a9dab9950a7980bfd5",
+  "time" : {
+    "start" : 1622686143424,
+    "stop" : 1622686225765,
+    "duration" : 82341
+  },
+  "description" : "福利秒杀或品牌中心，包邮",
+  "descriptionHtml" : "<p>福利秒杀或品牌中心，包邮</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "description" : "福利秒杀或品牌中心，包邮",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "先进行登录操作",
+      "time" : {
+        "start" : 1622686143425,
+        "stop" : 1622686148739,
+        "duration" : 5314
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "点击主页中的【秒杀和免费领】菜单",
+      "time" : {
+        "start" : 1622686148739,
+        "stop" : 1622686150855,
+        "duration" : 2116
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "再点击【活动商品管理】菜单",
+      "time" : {
+        "start" : 1622686150855,
+        "stop" : 1622686151965,
+        "duration" : 1110
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "进入活动商品管理页面，获取该页面商品的条数",
+      "time" : {
+        "start" : 1622686151965,
+        "stop" : 1622686154208,
+        "duration" : 2243
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "点击【新建商品】页面，进行添加商品操作",
+      "time" : {
+        "start" : 1622686154208,
+        "stop" : 1622686225725,
+        "duration" : 71517
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "统计添加活动商品后，该列表页面的商品条数",
+      "time" : {
+        "start" : 1622686225725,
+        "stop" : 1622686225764,
+        "duration" : 39
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "断言",
+      "time" : {
+        "start" : 1622686225764,
+        "stop" : 1622686225764,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 7,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "添加活动商品功能流程测试"
+  }, {
+    "name" : "story",
+    "value" : "福利秒杀或品牌中心，包邮"
+  }, {
+    "name" : "parentSuite",
+    "value" : "cases"
+  }, {
+    "name" : "suite",
+    "value" : "test_seckill_free_active_case"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestSeckillFreeActiveCase"
+  }, {
+    "name" : "host",
+    "value" : "BF-202006280547"
+  }, {
+    "name" : "thread",
+    "value" : "5768-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "cases.test_seckill_free_active_case"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "activity_name",
+    "value" : "'福利秒杀'"
+  }, {
+    "name" : "all_png",
+    "value" : "['D:\\\\工作\\\\图片\\\\1dd9e81d6a924d98bb04a99966bc8435bbocll.jpg', 'D:\\\\工作\\\\图片\\\\3bbd67a9395241f4b36f4cefe3e9612098777e.gif', 'D:\\\\工作\\\\图片\\\\1dd9e81d6a924d98bb04a99966bc8435bbocll.jpg', 'D:\\\\工作\\\\图片\\\\3bbd67a9395241f4b36f4cefe3e9612098777e.gif']"
+  }, {
+    "name" : "default",
+    "value" : "1"
+  }, {
+    "name" : "details_img",
+    "value" : "'D:\\\\abcd.exe %s'"
+  }, {
+    "name" : "goods_img",
+    "value" : "'D:\\abc.exe'"
+  }, {
+    "name" : "goods_name",
+    "value" : "'福利秒杀测试商品002'"
+  }, {
+    "name" : "higher_return",
+    "value" : "100"
+  }, {
+    "name" : "img",
+    "value" : "'添加福利秒杀商品，并包邮'"
+  }, {
+    "name" : "market_price",
+    "value" : "999"
+  }, {
+    "name" : "order_num",
+    "value" : "1"
+  }, {
+    "name" : "package_mail",
+    "value" : "'是'"
+  }, {
+    "name" : "password",
+    "value" : "123456"
+  }, {
+    "name" : "seckill_price",
+    "value" : "9"
+  }, {
+    "name" : "username",
+    "value" : "'yml'"
+  }, {
+    "name" : "vip_price",
+    "value" : "1"
+  }, {
+    "name" : "vip_return",
+    "value" : "1000"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8c6424234b94cbea.json",
+  "parameterValues" : [ "'福利秒杀'", "['D:\\\\工作\\\\图片\\\\1dd9e81d6a924d98bb04a99966bc8435bbocll.jpg', 'D:\\\\工作\\\\图片\\\\3bbd67a9395241f4b36f4cefe3e9612098777e.gif', 'D:\\\\工作\\\\图片\\\\1dd9e81d6a924d98bb04a99966bc8435bbocll.jpg', 'D:\\\\工作\\\\图片\\\\3bbd67a9395241f4b36f4cefe3e9612098777e.gif']", "1", "'D:\\\\abcd.exe %s'", "'D:\\abc.exe'", "'福利秒杀测试商品002'", "100", "'添加福利秒杀商品，并包邮'", "999", "1", "'是'", "123456", "9", "'yml'", "1", "1000" ]
+}

@@ -1,0 +1,8 @@
+-
+  img: 添加福利秒杀商品
+  username: yml
+  password: 123456
+  datetime: 2021/05/24
+  goods_name: 福利秒杀测试商品002
+  inventory_number: 100
+  false_inventory_number: 1000

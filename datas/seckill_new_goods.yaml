@@ -1,0 +1,46 @@
+#品牌中心，包邮
+-
+  img: 添加品牌中心商品，并包邮
+  username: yml
+  password: 123456
+  order_num: 1
+  goods_name: 品牌中心测试商品002
+  goods_img: D:\abc.exe
+  activity_name: 品牌中心
+  higher_return: 1000
+  vip_return: 100
+  package_mail: 是
+  default: 1
+  market_price: 999
+  seckill_price: 9
+  vip_price: 1
+  all_png:
+    - D:\工作\图片\1dd9e81d6a924d98bb04a99966bc8435bbocll.jpg
+    - D:\工作\图片\3bbd67a9395241f4b36f4cefe3e9612098777e.gif
+    - D:\工作\图片\1dd9e81d6a924d98bb04a99966bc8435bbocll.jpg
+    - D:\工作\图片\3bbd67a9395241f4b36f4cefe3e9612098777e.gif
+  details_img: D:\\abcd.exe %s
+
+#福利秒杀，包邮
+-
+  img: 添加福利秒杀商品，并包邮
+  username: yml
+  password: 123456
+  order_num: 1
+  goods_name: 福利秒杀测试商品002
+  goods_img: D:\abc.exe
+  activity_name: 福利秒杀
+  higher_return: 100
+  vip_return: 1000
+  package_mail: 是
+  default: 1
+  market_price: 999
+  seckill_price: 9
+  vip_price: 1
+  all_png:
+    - D:\工作\图片\1dd9e81d6a924d98bb04a99966bc8435bbocll.jpg
+    - D:\工作\图片\3bbd67a9395241f4b36f4cefe3e9612098777e.gif
+    - D:\工作\图片\1dd9e81d6a924d98bb04a99966bc8435bbocll.jpg
+    - D:\工作\图片\3bbd67a9395241f4b36f4cefe3e9612098777e.gif
+  details_img: D:\\abcd.exe %s
+#  sql: DELETE from dcep_share.ec_goods where goods_name=%s;

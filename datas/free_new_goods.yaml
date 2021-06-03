@@ -1,0 +1,42 @@
+#商品兑换券，不包邮
+-
+  img: 添加商品兑换券
+  username: yml
+  password: 123456
+  order_num: 1
+  goods_name: 商品兑换券测试商品002
+  goods_img: D:\abc.exe
+  activity_name: 商品券兑换
+  package_mail: 否
+  postage: 1
+  market_price: 999
+  seckill_price: 9
+  vip_price: 1
+  all_png:
+    - D:\工作\图片\1dd9e81d6a924d98bb04a99966bc8435bbocll.jpg
+    - D:\工作\图片\3bbd67a9395241f4b36f4cefe3e9612098777e.gif
+    - D:\工作\图片\1dd9e81d6a924d98bb04a99966bc8435bbocll.jpg
+    - D:\工作\图片\3bbd67a9395241f4b36f4cefe3e9612098777e.gif
+  details_img: D:\\abcd.exe %s
+
+#免费领，不包邮
+-
+  img: 添加免费领商品
+  username: yml
+  password: 123456
+  order_num: 1
+  goods_name: 免费领测试商品002
+  goods_img: D:\abc.exe
+  activity_name: 免费领
+  package_mail: 否
+  postage: 1
+  market_price: 999
+  seckill_price: 9
+  vip_price: 1
+  all_png:
+    - D:\工作\图片\1dd9e81d6a924d98bb04a99966bc8435bbocll.jpg
+    - D:\工作\图片\3bbd67a9395241f4b36f4cefe3e9612098777e.gif
+    - D:\工作\图片\1dd9e81d6a924d98bb04a99966bc8435bbocll.jpg
+    - D:\工作\图片\3bbd67a9395241f4b36f4cefe3e9612098777e.gif
+  details_img: D:\\abcd.exe %s
+#  sql: DELETE from dcep_share.ec_goods where goods_name=%s;

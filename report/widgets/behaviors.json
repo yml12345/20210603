@@ -1,0 +1,15 @@
+{
+  "total" : 2,
+  "items" : [ {
+    "uid" : "752ae5d5828cffd4fce1746576b64a51",
+    "name" : "添加活动商品功能流程测试",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    }
+  } ]
+}

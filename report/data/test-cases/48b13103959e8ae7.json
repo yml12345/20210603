@@ -1,0 +1,222 @@
+{
+  "uid" : "48b13103959e8ae7",
+  "name" : "test_new_goods_free_not_Package_mail[添加免费领商品-yml-123456-1-免费领测试商品002-D:\\abc.exe-免费领-否-1-999-9-1-all_png1-D:\\\\abcd.exe %s]",
+  "fullName" : "cases.test_seckill_free_active_case.TestSeckillFreeActiveCase#test_new_goods_free_not_Package_mail",
+  "historyId" : "7df6e6b65fbfaf05118c5e7c77bee0a0",
+  "time" : {
+    "start" : 1622685997825,
+    "stop" : 1622686049766,
+    "duration" : 51941
+  },
+  "description" : "免费领或商品兑换券，并不包邮",
+  "descriptionHtml" : "<p>免费领或商品兑换券，并不包邮</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "description" : "免费领或商品兑换券，并不包邮",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "先进行登录操作",
+      "time" : {
+        "start" : 1622685997825,
+        "stop" : 1622686003174,
+        "duration" : 5349
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "点击主页中的【秒杀和免费领】菜单",
+      "time" : {
+        "start" : 1622686003174,
+        "stop" : 1622686005278,
+        "duration" : 2104
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "再点击【活动商品管理】菜单",
+      "time" : {
+        "start" : 1622686005278,
+        "stop" : 1622686006362,
+        "duration" : 1084
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "进入活动商品管理页面，获取该页面商品的条数",
+      "time" : {
+        "start" : 1622686006362,
+        "stop" : 1622686008550,
+        "duration" : 2188
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "点击【新建商品】页面，进行添加商品操作",
+      "time" : {
+        "start" : 1622686008550,
+        "stop" : 1622686049725,
+        "duration" : 41175
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "统计添加活动商品后，该列表页面的商品条数",
+      "time" : {
+        "start" : 1622686049725,
+        "stop" : 1622686049766,
+        "duration" : 41
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "断言",
+      "time" : {
+        "start" : 1622686049766,
+        "stop" : 1622686049766,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 7,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "添加活动商品功能流程测试"
+  }, {
+    "name" : "story",
+    "value" : "免费领或商品兑换券，并不包邮"
+  }, {
+    "name" : "parentSuite",
+    "value" : "cases"
+  }, {
+    "name" : "suite",
+    "value" : "test_seckill_free_active_case"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestSeckillFreeActiveCase"
+  }, {
+    "name" : "host",
+    "value" : "BF-202006280547"
+  }, {
+    "name" : "thread",
+    "value" : "5768-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "cases.test_seckill_free_active_case"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "activity_name",
+    "value" : "'免费领'"
+  }, {
+    "name" : "all_png",
+    "value" : "['D:\\\\工作\\\\图片\\\\1dd9e81d6a924d98bb04a99966bc8435bbocll.jpg', 'D:\\\\工作\\\\图片\\\\3bbd67a9395241f4b36f4cefe3e9612098777e.gif', 'D:\\\\工作\\\\图片\\\\1dd9e81d6a924d98bb04a99966bc8435bbocll.jpg', 'D:\\\\工作\\\\图片\\\\3bbd67a9395241f4b36f4cefe3e9612098777e.gif']"
+  }, {
+    "name" : "details_img",
+    "value" : "'D:\\\\abcd.exe %s'"
+  }, {
+    "name" : "goods_img",
+    "value" : "'D:\\abc.exe'"
+  }, {
+    "name" : "goods_name",
+    "value" : "'免费领测试商品002'"
+  }, {
+    "name" : "img",
+    "value" : "'添加免费领商品'"
+  }, {
+    "name" : "market_price",
+    "value" : "999"
+  }, {
+    "name" : "order_num",
+    "value" : "1"
+  }, {
+    "name" : "package_mail",
+    "value" : "'否'"
+  }, {
+    "name" : "password",
+    "value" : "123456"
+  }, {
+    "name" : "postage",
+    "value" : "1"
+  }, {
+    "name" : "seckill_price",
+    "value" : "9"
+  }, {
+    "name" : "username",
+    "value" : "'yml'"
+  }, {
+    "name" : "vip_price",
+    "value" : "1"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "48b13103959e8ae7.json",
+  "parameterValues" : [ "'免费领'", "['D:\\\\工作\\\\图片\\\\1dd9e81d6a924d98bb04a99966bc8435bbocll.jpg', 'D:\\\\工作\\\\图片\\\\3bbd67a9395241f4b36f4cefe3e9612098777e.gif', 'D:\\\\工作\\\\图片\\\\1dd9e81d6a924d98bb04a99966bc8435bbocll.jpg', 'D:\\\\工作\\\\图片\\\\3bbd67a9395241f4b36f4cefe3e9612098777e.gif']", "'D:\\\\abcd.exe %s'", "'D:\\abc.exe'", "'免费领测试商品002'", "'添加免费领商品'", "999", "1", "'否'", "123456", "1", "9", "'yml'", "1" ]
+}

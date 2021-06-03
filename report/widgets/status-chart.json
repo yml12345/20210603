@@ -1,0 +1,51 @@
+[ {
+  "uid" : "da85dfdbd8f550b6",
+  "name" : "test_longin[yml-123456]",
+  "time" : {
+    "start" : 1622685928676,
+    "stop" : 1622685934170,
+    "duration" : 5494
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d142ea3041cc0cac",
+  "name" : "test_new_goods_seckill_Package_mail[添加品牌中心商品，并包邮-yml-123456-1-品牌中心测试商品002-D:\\abc.exe-品牌中心-1000-100-是-1-999-9-1-all_png0-D:\\\\abcd.exe %s]",
+  "time" : {
+    "start" : 1622686055536,
+    "stop" : 1622686137638,
+    "duration" : 82102
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8c6424234b94cbea",
+  "name" : "test_new_goods_seckill_Package_mail[添加福利秒杀商品，并包邮-yml-123456-1-福利秒杀测试商品002-D:\\abc.exe-福利秒杀-100-1000-是-1-999-9-1-all_png1-D:\\\\abcd.exe %s]",
+  "time" : {
+    "start" : 1622686143424,
+    "stop" : 1622686225765,
+    "duration" : 82341
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1b18ed079a3f640f",
+  "name" : "test_new_goods_free_not_Package_mail[添加商品兑换券-yml-123456-1-商品兑换券测试商品002-D:\\abc.exe-商品券兑换-否-1-999-9-1-all_png0-D:\\\\abcd.exe %s]",
+  "time" : {
+    "start" : 1622685939889,
+    "stop" : 1622685992078,
+    "duration" : 52189
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "48b13103959e8ae7",
+  "name" : "test_new_goods_free_not_Package_mail[添加免费领商品-yml-123456-1-免费领测试商品002-D:\\abc.exe-免费领-否-1-999-9-1-all_png1-D:\\\\abcd.exe %s]",
+  "time" : {
+    "start" : 1622685997825,
+    "stop" : 1622686049766,
+    "duration" : 51941
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

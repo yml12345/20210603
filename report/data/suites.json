@@ -1,0 +1,90 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "cases",
+    "children" : [ {
+      "name" : "test_login_case",
+      "children" : [ {
+        "name" : "TestLoginCase",
+        "children" : [ {
+          "name" : "test_longin[yml-123456]",
+          "uid" : "da85dfdbd8f550b6",
+          "parentUid" : "07ea2d59ac06f8230157f37c31d04635",
+          "status" : "passed",
+          "time" : {
+            "start" : 1622685928676,
+            "stop" : 1622685934170,
+            "duration" : 5494
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "123456", "'yml'" ]
+        } ],
+        "uid" : "07ea2d59ac06f8230157f37c31d04635"
+      } ],
+      "uid" : "a25ea4dc4c70125fbc69f599e5df34fc"
+    }, {
+      "name" : "test_seckill_free_active_case",
+      "children" : [ {
+        "name" : "TestSeckillFreeActiveCase",
+        "children" : [ {
+          "name" : "test_new_goods_free_not_Package_mail[添加商品兑换券-yml-123456-1-商品兑换券测试商品002-D:\\abc.exe-商品券兑换-否-1-999-9-1-all_png0-D:\\\\abcd.exe %s]",
+          "uid" : "1b18ed079a3f640f",
+          "parentUid" : "e455ddc9adf7fd45e915f11615ce1aa0",
+          "status" : "passed",
+          "time" : {
+            "start" : 1622685939889,
+            "stop" : 1622685992078,
+            "duration" : 52189
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "'商品券兑换'", "['D:\\\\工作\\\\图片\\\\1dd9e81d6a924d98bb04a99966bc8435bbocll.jpg', 'D:\\\\工作\\\\图片\\\\3bbd67a9395241f4b36f4cefe3e9612098777e.gif', 'D:\\\\工作\\\\图片\\\\1dd9e81d6a924d98bb04a99966bc8435bbocll.jpg', 'D:\\\\工作\\\\图片\\\\3bbd67a9395241f4b36f4cefe3e9612098777e.gif']", "'D:\\\\abcd.exe %s'", "'D:\\abc.exe'", "'商品兑换券测试商品002'", "'添加商品兑换券'", "999", "1", "'否'", "123456", "1", "9", "'yml'", "1" ]
+        }, {
+          "name" : "test_new_goods_free_not_Package_mail[添加免费领商品-yml-123456-1-免费领测试商品002-D:\\abc.exe-免费领-否-1-999-9-1-all_png1-D:\\\\abcd.exe %s]",
+          "uid" : "48b13103959e8ae7",
+          "parentUid" : "e455ddc9adf7fd45e915f11615ce1aa0",
+          "status" : "passed",
+          "time" : {
+            "start" : 1622685997825,
+            "stop" : 1622686049766,
+            "duration" : 51941
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "'免费领'", "['D:\\\\工作\\\\图片\\\\1dd9e81d6a924d98bb04a99966bc8435bbocll.jpg', 'D:\\\\工作\\\\图片\\\\3bbd67a9395241f4b36f4cefe3e9612098777e.gif', 'D:\\\\工作\\\\图片\\\\1dd9e81d6a924d98bb04a99966bc8435bbocll.jpg', 'D:\\\\工作\\\\图片\\\\3bbd67a9395241f4b36f4cefe3e9612098777e.gif']", "'D:\\\\abcd.exe %s'", "'D:\\abc.exe'", "'免费领测试商品002'", "'添加免费领商品'", "999", "1", "'否'", "123456", "1", "9", "'yml'", "1" ]
+        }, {
+          "name" : "test_new_goods_seckill_Package_mail[添加品牌中心商品，并包邮-yml-123456-1-品牌中心测试商品002-D:\\abc.exe-品牌中心-1000-100-是-1-999-9-1-all_png0-D:\\\\abcd.exe %s]",
+          "uid" : "d142ea3041cc0cac",
+          "parentUid" : "e455ddc9adf7fd45e915f11615ce1aa0",
+          "status" : "passed",
+          "time" : {
+            "start" : 1622686055536,
+            "stop" : 1622686137638,
+            "duration" : 82102
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "'品牌中心'", "['D:\\\\工作\\\\图片\\\\1dd9e81d6a924d98bb04a99966bc8435bbocll.jpg', 'D:\\\\工作\\\\图片\\\\3bbd67a9395241f4b36f4cefe3e9612098777e.gif', 'D:\\\\工作\\\\图片\\\\1dd9e81d6a924d98bb04a99966bc8435bbocll.jpg', 'D:\\\\工作\\\\图片\\\\3bbd67a9395241f4b36f4cefe3e9612098777e.gif']", "1", "'D:\\\\abcd.exe %s'", "'D:\\abc.exe'", "'品牌中心测试商品002'", "1000", "'添加品牌中心商品，并包邮'", "999", "1", "'是'", "123456", "9", "'yml'", "1", "100" ]
+        }, {
+          "name" : "test_new_goods_seckill_Package_mail[添加福利秒杀商品，并包邮-yml-123456-1-福利秒杀测试商品002-D:\\abc.exe-福利秒杀-100-1000-是-1-999-9-1-all_png1-D:\\\\abcd.exe %s]",
+          "uid" : "8c6424234b94cbea",
+          "parentUid" : "e455ddc9adf7fd45e915f11615ce1aa0",
+          "status" : "passed",
+          "time" : {
+            "start" : 1622686143424,
+            "stop" : 1622686225765,
+            "duration" : 82341
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "'福利秒杀'", "['D:\\\\工作\\\\图片\\\\1dd9e81d6a924d98bb04a99966bc8435bbocll.jpg', 'D:\\\\工作\\\\图片\\\\3bbd67a9395241f4b36f4cefe3e9612098777e.gif', 'D:\\\\工作\\\\图片\\\\1dd9e81d6a924d98bb04a99966bc8435bbocll.jpg', 'D:\\\\工作\\\\图片\\\\3bbd67a9395241f4b36f4cefe3e9612098777e.gif']", "1", "'D:\\\\abcd.exe %s'", "'D:\\abc.exe'", "'福利秒杀测试商品002'", "100", "'添加福利秒杀商品，并包邮'", "999", "1", "'是'", "123456", "9", "'yml'", "1", "1000" ]
+        } ],
+        "uid" : "e455ddc9adf7fd45e915f11615ce1aa0"
+      } ],
+      "uid" : "163b9030d40a490047b101b2b1253ef5"
+    } ],
+    "uid" : "9614ab5598a04b276864cf0744ce0d93"
+  } ]
+}
